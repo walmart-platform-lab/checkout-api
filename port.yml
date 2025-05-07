@@ -1,4 +1,4 @@
-identifier: checkout-api
+identifier: checkout-api 
 title: Checkout API
 blueprint: service
 properties:
