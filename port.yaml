@@ -1,0 +1,8 @@
+identifier: checkout-api
+title: Checkout API
+blueprint: service
+properties:
+  language: nodejs
+  tier: tier1
+relations:
+  owner: team-checkout
