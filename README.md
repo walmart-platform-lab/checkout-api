@@ -11,3 +11,6 @@ Handles checkout and payment processing workflows for Walmart’s online store.
 - Team: checkout
 - Tier: customer-facing
 - Runtime: nodejs
+
+## Deployment Notes
+This repo is integrated with Port and supports simulated CI/CD workflows.
