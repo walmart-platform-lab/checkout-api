@@ -3,6 +3,7 @@ title: Checkout API
 blueprint: service
 properties:
   language: nodejs
-  tier: tier3
+  tier: tier1
+  repository: https://github.com/walmart-platform-lab/checkout-api
 relations:
   owner: team-checkout
