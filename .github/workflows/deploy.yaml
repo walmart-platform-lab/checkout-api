@@ -1,0 +1,13 @@
+name: Simulate Deploy
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  fake-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Echo pretend deploy
+        run: echo "Simulating deployment for Port lead time tracking"
