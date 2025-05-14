@@ -3,6 +3,6 @@ title: Checkout API
 blueprint: service
 properties:
   language: nodejs
-  tier: tier1
+  tier: tier3
 relations:
   owner: team-checkout
