@@ -5,5 +5,7 @@ properties:
   language: nodejs
   tier: tier1
   repository: https://github.com/walmart-platform-lab/checkout-api
+  readme: .readme
+  freshness: .freshness
 relations:
   owner: team-checkout
